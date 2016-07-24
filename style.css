@@ -1,0 +1,39 @@
+#intro{
+  line-height:200px;
+  width:400px;
+  border:2px solid black;
+  text-align:center;
+  background-color:white;
+  float:left;
+  position:relative;
+  left:400px;
+}
+
+#about{
+  line-height:200px;
+  width:400px;
+  border:2px solid black;
+  text-align:center;
+  background-color:white;
+  float:left;
+  position:relative;
+  top:250px;
+}
+
+#cr{
+  line-height:200px;
+  width:400px;
+  border:2px solid black;
+  text-align:center;
+    background-color:white;
+    float:left;
+    position:relative;
+    top:550px;
+    right:400px;
+}
+
+body{
+  background-image:url('http://i.imgur.com/XpzJJSe.jpg?1');
+  background-size: cover;
+
+}
